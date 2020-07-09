@@ -6,5 +6,35 @@
   logoColor: FFFFFF
   projects:
     - https://github.com/HackClub-NMIT/hackbout-certificate-generator
-    - https://github.com/ashleymavericks/personality-prediction-from-text
+- name: JavaScript
+  logo: javascript
+  url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  color: F1E05A
+  logoColor: FFFFFF
+  projects:
+    - https://github.com/ashleymavericks/Speaking-Geo-Assistant-Backend
+- name: Node.js
+  logo: node.js
+  url: https://nodejs.org/en/
+  color: 47d147
+  logoColor: FFFFFF
+  projects:
+    - https://github.com/ashleymavericks/Civil-Services-Assistant
+    - url: https://github.com/ashleymavericks/Dietary-Care
+      wip: true
+- name: Kotlin
+  logo: kotlin
+  url: https://kotlinlang.org/
+  color: 4FA1EF
+  logoColor: FFFFFF
+  projects:
+    - https://github.com/ashleymavericks/Hospital-Droid
+    - https://github.com/ashleymavericks/Speaking-Geo-Assistant-Frontend
+- name: HTML
+  logo: HTML5
+  url: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
+  color: ff751a
+  logocolor: FFFFFF
+  projects:
+   - https://github.com/ashleymavericks/Portfolio
     
