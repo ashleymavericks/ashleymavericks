@@ -47,3 +47,8 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 
 
+<!-- START OF PROFILE STACK, DO NOT REMOVE -->
+| 💻 **Technology** | 🚀 **Projects** |
+|-|-|
+| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) | [![hackbout-certificate-generator](https://img.shields.io/static/v1?label=hackbout-certificate-generator&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/HackClub-NMIT/hackbout-certificate-generator) |
+<!-- END OF PROFILE STACK, DO NOT REMOVE -->
