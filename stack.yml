@@ -1,0 +1,8 @@
+
+- name: Python
+  logo: python
+  url: https://www.python.org/
+  color: 3C78A9
+  logoColor: FFFFFF
+  projects:
+    - https://github.com/HackClub-NMIT/hackbout-certificate-generator
