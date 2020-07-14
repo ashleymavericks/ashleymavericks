@@ -1,6 +1,9 @@
-# 👨🏻‍💻 Anurag Singh @ashleymavericks
+# 👨🏻‍💻 [Anurag Singh @ashleymavericks](https://anuragsingh.dev)
 
-:man_technologist: Personal Site: [anuragsingh.dev](https://anuragsingh.dev) ╼╾ 🐦 Twitter: [ashleymavericks](https://twitter.com/ashlyemavericks) ╼╾ :mailbox_with_mail: Linkedin: [ashlyemavericks](https://www.linkedin.com/in/ashlyemavericks/)
+[![Linkedin Badge](https://img.shields.io/badge/-Anurag%20Singh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ashlyemavericks/)](https://www.linkedin.com/in/ashlyemavericks/) [![Twitter Badge](http://img.shields.io/badge/-@ashleymavericks-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/ashlyemavericks)](https://twitter.com/ashlyemavericks) [![GitHub followers](https://img.shields.io/github/followers/ashleymavericks?label=Follow&style=social)](https://github.com/ashleymavericks/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-singhanurag024-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:singhanurag024@gmail.com)](mailto:singhanurag024@gmail.com) 
+---
+
+<!-- :man_technologist: Personal Site: [anuragsingh.dev](https://anuragsingh.dev) ╼╾ 🐦 Twitter: [ashleymavericks](https://twitter.com/ashlyemavericks) ╼╾ :mailbox_with_mail: Linkedin: [ashlyemavericks](https://www.linkedin.com/in/ashlyemavericks/) -->
 
 :wave: Hello! I've been buliding things since I was a kid. I love hardware tweaking and prime numbers - they are just so intriguing. Got my first Raspberry Pi in high school, since then my collection is increasing by every fall. In October 2019, I started a programming club in my college, [@hackclubnmit](https://github.com/hackclub-nmit) with the support of [@hackclub](https://hackclub.com/). You should definitely check it out. I've always been fascinated with programming, trying to learn as much as possible considering myself :spades: jack of all trades. I try to stick by this one-liner - *Implementing Science Fiction*. Besides programming I enjoy :swimmer: swimming, :video_game: gaming and :badminton: professional badminton.
 
