@@ -1,7 +1,5 @@
 # 👨🏻‍💻 [Anurag Singh](https://anuragsingh.dev) [@ashleymavericks](https://anuragsingh.dev)
 
----
-
 [![Linkedin Badge](https://img.shields.io/badge/-Anurag%20Singh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ashlyemavericks/)](https://www.linkedin.com/in/ashlyemavericks/) [![Twitter Badge](http://img.shields.io/badge/-@ashleymavericks-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/ashlyemavericks)](https://twitter.com/ashlyemavericks) [![GitHub followers](https://img.shields.io/github/followers/ashleymavericks?label=Follow&style=social)](https://github.com/ashleymavericks/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-singhanurag024-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:singhanurag024@gmail.com)](mailto:singhanurag024@gmail.com) 
 
 
