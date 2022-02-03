@@ -1,37 +1,30 @@
 - name: Python
   logo: python
   url: https://www.python.org/
-  color: 3C78A9
-  logoColor: FFFFFF
+  color: '#3C78A9'
   projects:
-    - https://github.com/hackclubnmit/hackbout-certificate-generator
-- name: JavaScript
+    - url: https://github.com/ashleymavericks/notion-portfolio-tracker
+    - url: https://github.com/hackclubnmit/certificate-generator
+    
+- name: JS/TS
   logo: javascript
-  url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-  color: F1E05A
-  logoColor: FFFFFF
+  url: https://www.typescriptlang.org/
+  color: '#3878C6'
   projects:
-    - https://github.com/ashleymavericks/Speaking-Geo-Assistant-Backend
+    - url: hhttps://github.com/ashleymavericks/Speaking-Geo-Assistant-Backend
+    
 - name: Node.js
   logo: node.js
   url: https://nodejs.org/en/
-  color: 47d147
+  color: '#47d147'
   logoColor: FFFFFF
   projects:
-    - https://github.com/ashleymavericks/Civil-Services-Assistant
-    - https://github.com/ashleymavericks/Dietary-Care
-- name: Kotlin
-  logo: kotlin
-  url: https://kotlinlang.org/
-  color: 4FA1EF
-  logoColor: FFFFFF
-  projects:
-    - https://github.com/ashleymavericks/Hospital-Droid
-    - https://github.com/ashleymavericks/Speaking-Geo-Assistant-Frontend
+    - url: https://github.com/ashleymavericks/Civil-Services-Assistant
+    - url: https://github.com/ashleymavericks/Dietary-Care
+
 - name: HTML
   logo: HTML5
   url: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
-  color: ff751a
-  logoColor: FFFFFF
+  color: '#ff751a'
   projects:
-    - https://github.com/ashleymavericks/Portfolio-Site
+    - url: https://github.com/ashleymavericks/Portfolio-Site
