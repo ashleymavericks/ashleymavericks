@@ -4,7 +4,7 @@
   color: 3C78A9
   logoColor: FFFFFF
   projects:
-    - https://github.com/HackClub-NMIT/hackbout-certificate-generator
+    - https://github.com/hackclubnmit/hackbout-certificate-generator
     - https://github.com/ashleymavericks/notion-potfolio-tracker
 - name: JavaScript
   logo: javascript
