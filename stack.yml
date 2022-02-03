@@ -1,4 +1,3 @@
-
 - name: Python
   logo: python
   url: https://www.python.org/
@@ -37,4 +36,3 @@
   logoColor: FFFFFF
   projects:
     - https://github.com/ashleymavericks/Portfolio-Site
-    
