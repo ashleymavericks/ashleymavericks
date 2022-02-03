@@ -23,8 +23,8 @@
     - url: https://github.com/ashleymavericks/Civil-Services-Assistant
     - url: https://github.com/ashleymavericks/Dietary-Care
 
-- name: React
-  logo: React
+- name: HTML
+  logo: HTML5
   url: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
   color: '#ff751a'
   projects:
