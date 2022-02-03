@@ -6,6 +6,7 @@
   logoColor: FFFFFF
   projects:
     - https://github.com/HackClub-NMIT/hackbout-certificate-generator
+    - https://github.com/ashleymavericks/notion-potfolio-tracker
 - name: JavaScript
   logo: javascript
   url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
@@ -21,7 +22,6 @@
   projects:
     - https://github.com/ashleymavericks/Civil-Services-Assistant
     - url: https://github.com/ashleymavericks/Dietary-Care
-      wip: true
 - name: Kotlin
   logo: kotlin
   url: https://kotlinlang.org/
