@@ -4,7 +4,7 @@
   color: 3C78A9
   logoColor: FFFFFF
   projects:
-    - https://github.com/ashleymavericks/notion-portfolio-tracker
+    - https://github.com/hackclubnmit/hackbout-certificate-generator
 - name: JavaScript
   logo: javascript
   url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
@@ -19,7 +19,7 @@
   logoColor: FFFFFF
   projects:
     - https://github.com/ashleymavericks/Civil-Services-Assistant
-    - url: https://github.com/ashleymavericks/Dietary-Care
+    - https://github.com/ashleymavericks/Dietary-Care
 - name: Kotlin
   logo: kotlin
   url: https://kotlinlang.org/
