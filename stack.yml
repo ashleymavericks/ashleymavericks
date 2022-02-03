@@ -4,6 +4,7 @@
   color: '#3C78A9'
   projects:
     - url: https://github.com/ashleymavericks/notion-portfolio-tracker
+    - url: https://github.com/ashleymavericks/bitgrit-personality-api
     - url: https://github.com/hackclubnmit/certificate-generator
     
 - name: JS/TS
