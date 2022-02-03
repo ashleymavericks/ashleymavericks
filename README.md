@@ -5,7 +5,7 @@
 
 <!-- :man_technologist: Personal Site: [anuragsingh.dev](https://anuragsingh.dev) ╼╾ 🐦 Twitter: [ashleymavericks](https://twitter.com/ashlyemavericks) ╼╾ :mailbox_with_mail: Linkedin: [ashlyemavericks](https://www.linkedin.com/in/ashlyemavericks/) -->
 
-:wave: Hello! I've been buliding things since I was a kid. I love hardware tweaking and prime numbers - they are just so intriguing. Got my first Raspberry Pi in high school, since then my collection is increasing by every fall. In October 2019, I started a programming club in my college, [@hackclubnmit](https://github.com/hackclub-nmit) with the support of [@hackclub](https://hackclub.com/). You should definitely check it out. I've always been fascinated with programming, trying to learn as much as possible considering myself :spades: jack of all trades. I try to stick by this one-liner - *Implementing Science Fiction*. Besides programming I enjoy :swimmer: swimming, :video_game: gaming and :badminton: professional badminton.
+:wave: Hello! I've been buliding things since I was a kid. I love hardware tweaking and prime numbers - they are just so intriguing. Got my first Raspberry Pi in high school, since then my collection is increasing by every fall. In October 2019, I started a programming club in my college, [@hackclubnmit](https://github.com/hackclubnmit) with the support of [@hackclub](https://hackclub.com/). You should definitely check it out. I've always been fascinated with programming, trying to learn as much as possible considering myself :spades: jack of all trades. I try to stick by this one-liner - *Implementing Science Fiction*. Besides programming I enjoy :swimmer: swimming, :video_game: gaming and :badminton: professional badminton.
 
 ## 💻 My Tech Stack
 
