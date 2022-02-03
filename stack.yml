@@ -4,7 +4,7 @@
   color: 3C78A9
   logoColor: FFFFFF
   projects:
-    - https://github.com/ashleymavericks/notion-potfolio-tracker
+    - https://github.com/ashleymavericks/notion-portfolio-tracker
 - name: JavaScript
   logo: javascript
   url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
