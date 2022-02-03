@@ -1,0 +1,13 @@
+name: stack
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  profile_stack:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gleich/profile_stack@master
