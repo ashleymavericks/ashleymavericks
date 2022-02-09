@@ -3,7 +3,8 @@
   url: https://www.python.org/
   color: '#3C78A9'
   projects:
-    - url: https://github.com/ashleymavericks/notion-portfolio-tracker
+    - url: https://github.com/ashleymavericks/notion-portfolio
+    - url: https://github.com/ashleymavericks/notion-trading
     - url: https://github.com/ashleymavericks/bitgrit-personality-api
     - url: https://github.com/hackclubnmit/certificate-generator
     
