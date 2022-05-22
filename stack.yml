@@ -14,7 +14,7 @@
   url: https://www.typescriptlang.org/
   color: '#3878C6'
   projects:
-    - url: hhttps://github.com/ashleymavericks/Speaking-Geo-Assistant-Backend
+    - url: hhttps://github.com/ashleymavericks/speaking-geo-assistant-backend
     
 - name: Node.js
   logo: node.js
@@ -22,8 +22,8 @@
   color: '#47d147'
   logoColor: FFFFFF
   projects:
-    - url: https://github.com/ashleymavericks/Civil-Services-Assistant
-    - url: https://github.com/ashleymavericks/Dietary-Care
+    - url: https://github.com/ashleymavericks/civil-services-assistant
+    - url: https://github.com/ashleymavericks/dietary-care
 
 - name: React
   logo: React
