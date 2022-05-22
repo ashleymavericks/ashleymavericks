@@ -32,7 +32,7 @@
   projects:
     - url: https://github.com/ashleymavericks/www
     
-- name: GNU
+- name: GNU/Linux
   logo: GNU
   url: https://www.gnu.org/
   color: '#A42E2B'
