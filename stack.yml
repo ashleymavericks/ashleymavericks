@@ -31,3 +31,10 @@
   color: '#ff751a'
   projects:
     - url: https://github.com/ashleymavericks/www
+    
+- name: GNU
+  logo: GNU
+  url: https://www.gnu.org/
+  color: '#A42E2B'
+  projects:
+    - url: https://github.com/ashleymavericks/dotfiles-public
