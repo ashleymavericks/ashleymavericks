@@ -32,9 +32,9 @@
   projects:
     - url: https://github.com/ashleymavericks/www
     
-- name: GNU/Linux
-  logo: GNU
+- name: Shell
+  logo: GNU Bash
   url: https://www.gnu.org/
-  color: '#A42E2B'
+  color: '#4EAA25'
   projects:
     - url: https://github.com/ashleymavericks/dotfiles-public
