@@ -15,6 +15,7 @@
   color: '#3878C6'
   projects:
     - url: hhttps://github.com/ashleymavericks/speaking-geo-assistant-backend
+    - url: https://github.com/ashleymavericks/www
     
 - name: Node.js
   logo: node.js
@@ -24,13 +25,6 @@
   projects:
     - url: https://github.com/ashleymavericks/civil-services-assistant
     - url: https://github.com/ashleymavericks/dietary-care
-
-- name: React
-  logo: React
-  url: https://reactjs.org/
-  color: '#ff751a'
-  projects:
-    - url: https://github.com/ashleymavericks/www
     
 - name: Shell
   logo: GNU Bash
