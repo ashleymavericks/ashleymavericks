@@ -7,7 +7,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ashlyemavericks/)](https://www.linkedin.com/in/ashlyemavericks/)
 [![Medium Badge](http://img.shields.io/badge/-Medium-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@ashleymavericks)](https://medium.com/@ashleymavericks)
 [![DEV Badge](https://img.shields.io/badge/-DEV-c14438?style=social&logo=Dev.to&logoColor=black&link=https://dev.to/ashleymavericks)](https://dev.to/ashleymavericks)
-[![Reddit Badge](https://img.shields.io/badge/-Reddit-c14438?style=social&logo=Reddit&logoColor=red&link=https://www.reddit.com/user/ashleymavericks)](https://www.reddit.com/user/ashleymavericks)
 
 [![wakatime](https://wakatime.com/badge/user/eafdbba4-cec2-4c99-8cd5-5fc36bb00274.svg)](https://wakatime.com/@eafdbba4-cec2-4c99-8cd5-5fc36bb00274)
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fashleymavericks&logo=leetcode&logoColor=yellow)](https://leetcode.com/ashleymavericks/)
