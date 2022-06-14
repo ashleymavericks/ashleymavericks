@@ -1,7 +1,7 @@
 - name: Python
   logo: python
   url: https://www.python.org/
-  color: '#3C78A9'
+  color: '#3776AB'
   projects:
     - url: https://github.com/ashleymavericks/notion-portfolio-tracker
     - url: https://github.com/ashleymavericks/notion-interactive-brokers
@@ -9,19 +9,18 @@
     - url: https://github.com/ashleymavericks/notion-habit-tracker
     - url: https://github.com/hackclubnmit/certificate-generator
     
-- name: JS/TS
+- name: JavaScript
   logo: javascript
-  url: https://www.typescriptlang.org/
-  color: '#3878C6'
+  url: https://javascript.info/
+  color: '#F7DF1E'
   projects:
     - url: hhttps://github.com/ashleymavericks/speaking-geo-assistant-backend
     - url: https://github.com/ashleymavericks/www
     
 - name: Node.js
-  logo: node.js
+  logo: Node.js
   url: https://nodejs.org/en/
-  color: '#47d147'
-  logoColor: FFFFFF
+  color: '#339933'
   projects:
     - url: https://github.com/ashleymavericks/civil-services-assistant
     - url: https://github.com/ashleymavericks/dietary-care
