@@ -1,5 +1,5 @@
 - name: Python
-  logo: python
+  logo: Python
   url: https://www.python.org/
   color: '#3776AB'
   projects:
@@ -10,7 +10,7 @@
     - url: https://github.com/hackclubnmit/certificate-generator
     
 - name: JavaScript
-  logo: javascript
+  logo: JavaScript
   url: https://javascript.info/
   color: '#F7DF1E'
   projects:
