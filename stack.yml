@@ -14,7 +14,6 @@
   url: https://javascript.info/
   color: '#F7DF1E'
   projects:
-    - url: hhttps://github.com/ashleymavericks/speaking-geo-assistant-backend
     - url: https://github.com/ashleymavericks/www
     
 - name: Node.js
@@ -22,7 +21,7 @@
   url: https://nodejs.org/en/
   color: '#339933'
   projects:
-    - url: https://github.com/ashleymavericks/civil-services-assistant
+    - url: https://github.com/ashleymavericks/speaking-geo-assistant-backend
     - url: https://github.com/ashleymavericks/dietary-care
     
 - name: Shell
