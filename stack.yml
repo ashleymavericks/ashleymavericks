@@ -5,9 +5,15 @@
   projects:
     - url: https://github.com/ashleymavericks/notion-portfolio-tracker
     - url: https://github.com/ashleymavericks/notion-interactive-brokers
-    - url: https://github.com/ashleymavericks/bitgrit-personality-api
     - url: https://github.com/ashleymavericks/notion-habit-tracker
     - url: https://github.com/hackclubnmit/certificate-generator
+    
+- name: Flask
+  logo: Flask
+  url: https://flask.palletsprojects.com/en/2.1.x/
+  color: '#000000'
+  projects:
+    - url: https://github.com/ashleymavericks/bitgrit-personality-api
     
 - name: JavaScript
   logo: JavaScript
