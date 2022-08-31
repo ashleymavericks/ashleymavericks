@@ -37,3 +37,10 @@
   color: '#4EAA25'
   projects:
     - url: https://github.com/ashleymavericks/dotfiles-public
+
+- name: Spark AR
+  logo: Spark AR
+  url: https://sparkar.facebook.com/ar-studio/
+  color: '#FF5C83'
+  projects:
+    - url: https://github.com/ashleymavericks/AR-PiZero
