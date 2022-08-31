@@ -22,6 +22,7 @@
   color: '#F7DF1E'
   projects:
     - url: https://github.com/ashleymavericks/www
+    - url: https://github.com/ashleymavericks/anuragsingh.dev
     
 - name: Node.js
   logo: Node.js
