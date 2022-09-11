@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ashleymavericks?style=social)](https://twitter.com/intent/follow?screen_name=ashleymavericks)
 [![GitHub followers](https://img.shields.io/github/followers/ashleymavericks?label=Follow&style=social)](https://github.com/ashleymavericks/?tab=follow)
-[![Gmail Badge](https://img.shields.io/badge/-email@anuragsingh.dev-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:email@anuragsingh.dev)](mailto:email@anuragsingh.dev)
+[![Gmail Badge](https://img.shields.io/badge/-singhanurag024-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:singhanurag024@gmail.com)](mailto:singhanurag024@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-c14438?style=social&logo=Telegram&logoColor=red&link=https://t.me/ashleymavericks)](https://t.me/ashleymavericks)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ashlyemavericks/)](https://www.linkedin.com/in/ashlyemavericks/)
 [![Medium Badge](http://img.shields.io/badge/-Medium-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@ashleymavericks)](https://medium.com/@ashleymavericks)
