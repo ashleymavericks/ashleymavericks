@@ -9,7 +9,7 @@
 [![DEV Badge](https://img.shields.io/badge/-DEV-c14438?style=social&logo=Dev.to&logoColor=black&link=https://dev.to/ashleymavericks)](https://dev.to/ashleymavericks)
 
 [![wakatime](https://wakatime.com/badge/user/eafdbba4-cec2-4c99-8cd5-5fc36bb00274.svg)](https://wakatime.com/@eafdbba4-cec2-4c99-8cd5-5fc36bb00274)
-[![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fashleymavericks&logo=leetcode&logoColor=yellow)](https://leetcode.com/ashleymavericks/)
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fashleymavericks&logo=leetcode&logoColor=yellow)](https://leetcode.com/ashleymavericks/)
 [![ProfileViews](https://komarev.com/ghpvc/?username=ashleymavericks&color=red&style=flat)](https://komarev.com/ghpvc/?username=ashleymavericks)
 
 :wave: Hello! I'm founder of [@hackclubnmit](https://github.com/hackclubnmit) and love building softwares, automating my workflows, self-hosting all my services on personal servers (mostly on custom build Raspberry Pi clusters with ICE Tower Cooler🥶), developing algo-trading scripts, managing my entire life on Notion and reading a lot of newsletters on system design choices of big techs. From design to development I love the entire process of building software. I focus on maintainability, performance, and security with all of my projects and try to follow a lot of best practices. Following best practices early on is the way to go and I'm a huge supporter of it.
