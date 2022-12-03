@@ -21,7 +21,7 @@
   url: https://fastapi.tiangolo.com/
   color: '##009688'
   projects:
-    - url: https://github.com/ashleymavericks/browser-reloading-fastapi
+    - url: https://github.com/ashleymavericks/browser-hot-reloading
     - url: https://github.com/ashleymavericks/strategical-trading
       wip: true
     
