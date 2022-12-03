@@ -23,6 +23,7 @@
   projects:
     - url: https://github.com/ashleymavericks/strategical-trading
       wip: true
+    - url: https://github.com/ashleymavericks/browser-reloading-fastapi
     
 - name: JavaScript
   logo: JavaScript
