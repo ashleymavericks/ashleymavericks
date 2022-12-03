@@ -22,6 +22,7 @@
   color: '##009688'
   projects:
     - url: https://github.com/ashleymavericks/strategical-trading
+    - wip: true
     
 - name: JavaScript
   logo: JavaScript
