@@ -35,6 +35,10 @@
 | [![Spark AR](https://img.shields.io/static/v1?label=&message=Spark%20AR&color=FF5C83&logo=Spark%20AR&logoColor=FFFFFF)](https://sparkar.facebook.com/ar-studio/) | [![AR-PiZero](https://img.shields.io/static/v1?label=&message=AR-PiZero&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/AR-PiZero) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 <div>
