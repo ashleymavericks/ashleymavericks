@@ -40,7 +40,7 @@
 - [AR-PiZero — Augmented Reality for IoT](https://medium.datadriveninvestor.com/ar-pizero-augmented-reality-for-iot-1210062198c0?source=rss-cda09a7745f1------2)
 <!-- BLOG-POST-LIST:END -->
 
-Here are some [🦜 parrots](https://cultofthepartyparrot.com):
+Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
