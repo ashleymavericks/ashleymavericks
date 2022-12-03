@@ -37,8 +37,6 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Test post 2](https://dev.to/ashleymavericks/test-post-2-3o8d)
-- [Test post 1](https://dev.to/ashleymavericks/test-post-1-4ob6)
 - [AR-PiZero — Augmented Reality for IoT](https://medium.datadriveninvestor.com/ar-pizero-augmented-reality-for-iot-1210062198c0?source=rss-cda09a7745f1------2)
 <!-- BLOG-POST-LIST:END -->
 
