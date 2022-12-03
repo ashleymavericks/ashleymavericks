@@ -16,6 +16,13 @@
     - url: https://github.com/ashleymavericks/bitgrit-personality-api
     - url: https://github.com/ashleymavericks/tradingview-discord-middleware
     
+- name: FastAPI
+  logo: FastAPI
+  url: https://fastapi.tiangolo.com/
+  color: '##009688'
+  projects:
+    - url: https://github.com/ashleymavericks/strategical-trading
+    
 - name: JavaScript
   logo: JavaScript
   url: https://javascript.info/
