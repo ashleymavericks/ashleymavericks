@@ -35,6 +35,7 @@
 | [![Spark AR](https://img.shields.io/static/v1?label=&message=Spark%20AR&color=FF5C83&logo=Spark%20AR&logoColor=FFFFFF)](https://sparkar.facebook.com/ar-studio/) | [![AR-PiZero](https://img.shields.io/static/v1?label=&message=AR-PiZero&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/AR-PiZero) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
+📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [AR-PiZero — Augmented Reality for IoT](https://medium.datadriveninvestor.com/ar-pizero-augmented-reality-for-iot-1210062198c0?source=rss-cda09a7745f1------2)
 <!-- BLOG-POST-LIST:END -->
