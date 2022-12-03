@@ -37,7 +37,7 @@
   color: '#339933'
   projects:
     - url: https://github.com/ashleymavericks/speaking-geo-assistant-backend
-    - url: https://github.com/ashleymavericks/dietary-care
+    - url: https://github.com/ashleymavericks/dietary-care-assistant
     
 - name: Shell
   logo: GNU Bash
