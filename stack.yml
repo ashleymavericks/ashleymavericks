@@ -41,6 +41,21 @@
   projects:
     - url: https://github.com/ashleymavericks/speaking-geo-assistant-backend
     - url: https://github.com/ashleymavericks/dietary-care
+  
+- name: Problem solving
+  logo: LeetCode
+  url: https://hackattic.com/u/ashleymavericks
+  color: '#FFA116'
+  projects:
+    - url: https://github.com/ashleymavericks/leetcoding
+    - url: https://github.com/ashleymavericks/hackattic
+    
+- name: Spark AR
+  logo: Spark AR
+  url: https://sparkar.facebook.com/ar-studio/
+  color: '#FF5C83'
+  projects:
+    - url: https://github.com/ashleymavericks/AR-PiZero
     
 - name: Shell
   logo: GNU Bash
@@ -49,9 +64,4 @@
   projects:
     - url: https://github.com/ashleymavericks/dotfiles-public
 
-- name: Spark AR
-  logo: Spark AR
-  url: https://sparkar.facebook.com/ar-studio/
-  color: '#FF5C83'
-  projects:
-    - url: https://github.com/ashleymavericks/AR-PiZero
+
