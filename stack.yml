@@ -19,12 +19,19 @@
 - name: FastAPI
   logo: FastAPI
   url: https://fastapi.tiangolo.com/
-  color: '##009688'
+  color: '#009688'
   projects:
     - url: https://github.com/ashleymavericks/browser-hot-reloading
     - url: https://github.com/ashleymavericks/strategical-trading
       wip: true
-    
+
+- name: Django
+  logo: Django
+  url: https://www.djangoproject.com/
+  color: '#092E20'
+  projects:
+    - url: https://github.com/ashleymavericks/todo-list-battle
+      wip: true
     
 - name: JavaScript
   logo: JavaScript
