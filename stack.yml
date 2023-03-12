@@ -7,6 +7,7 @@
     - url: https://github.com/ashleymavericks/notion-interactive-brokers
     - url: https://github.com/ashleymavericks/notion-habit-tracker
     - url: https://github.com/hackclubnmit/certificate-generator
+    - url: https://github.com/ashleymavericks/todo-cli
     
 - name: Flask
   logo: Flask
