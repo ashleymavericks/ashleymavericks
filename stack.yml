@@ -56,7 +56,9 @@
   color: '#FFA116'
   projects:
     - url: https://github.com/ashleymavericks/leetcoding
+    - url: https://github.com/ashleymavericks/hackerrank
     - url: https://github.com/ashleymavericks/hackattic
+    - url: https://github.com/ashleymavericks/kata-log
     - url: https://github.com/ashleymavericks/sadservers
     - url: https://github.com/ashleymavericks/code.golf
     
