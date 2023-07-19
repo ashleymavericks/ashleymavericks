@@ -8,6 +8,7 @@
     - url: https://github.com/ashleymavericks/notion-habit-tracker
     - url: https://github.com/hackclubnmit/certificate-generator
     - url: https://github.com/ashleymavericks/todo-cli
+    - url: https://github.com/ashleymavericks/option-chain-notifier
     
 - name: Flask
   logo: Flask
