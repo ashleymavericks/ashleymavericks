@@ -9,6 +9,13 @@
     - url: https://github.com/hackclubnmit/certificate-generator
     - url: https://github.com/ashleymavericks/todo-cli
     - url: https://github.com/ashleymavericks/option-chain-notifier
+
+- name: Golang
+  logo: Golang
+  url: https://go.dev/
+  color: '#79D4FD'
+  projects:
+    - url: https://github.com/ashleymavericks/build-your-own-tcp-server
     
 - name: Flask
   logo: Flask
