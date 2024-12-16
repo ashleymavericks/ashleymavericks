@@ -10,10 +10,10 @@
     - url: https://github.com/ashleymavericks/todo-cli
     - url: https://github.com/ashleymavericks/option-chain-notifier
 
-- name: Golang
-  logo: Golang
+- name: Go
+  logo: Go
   url: https://go.dev/
-  color: '#79D4FD'
+  color: '#00ADD8'
   projects:
     - url: https://github.com/ashleymavericks/build-your-own-tcp-server
     
