@@ -16,6 +16,7 @@
   color: '#00ADD8'
   projects:
     - url: https://github.com/ashleymavericks/build-your-own-tcp-server
+    - url: https://github.com/ashleymavericks/build-your-own-shell
     
 - name: Flask
   logo: Flask
