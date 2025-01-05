@@ -16,8 +16,9 @@
   url: https://go.dev/
   color: '#00ADD8'
   projects:
-    - url: https://github.com/ashleymavericks/build-your-own-tcp-server
-    - url: https://github.com/ashleymavericks/build-your-own-shell
+    - url: https://github.com/ashleymavericks/rocket-socket-server
+    - url: https://github.com/ashleymavericks/terminal-titan-shell
+    - url: https://github.com/ashleymavericks/dataload-db
     
 - name: Flask
   logo: Flask
