@@ -44,13 +44,20 @@
   projects:
     - url: https://github.com/ashleymavericks/todo-list-battle
       wip: true
+
+- name: TypeScript
+  logo: TypeScript
+  url: https://www.typescriptlang.org/
+  color: '#3178C6'
+  projects:
+    - url: https://github.com/ashleymavericks/nextjs-starter-template
+    - url: https://github.com/ashleymavericks/anuragsingh.dev
     
 - name: JavaScript
   logo: JavaScript
   url: https://javascript.info/
   color: '#F7DF1E'
   projects:
-    - url: https://github.com/ashleymavericks/anuragsingh.dev
     - url: https://github.com/ashleymavericks/unshorts
     
 - name: Node.js
