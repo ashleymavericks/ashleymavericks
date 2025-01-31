@@ -42,7 +42,7 @@
 
 📝 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Browser hot-reloading for Python ASGI web apps using arel](https://dev.to/ashleymavericks/browser-hot-reloading-for-python-asgi-web-apps-using-arel-1l19)
+- [Supercharge Your FastAPI Development with Browser Hot Reloading Using Arel](https://dev.to/ashleymavericks/browser-hot-reloading-for-python-asgi-web-apps-using-arel-1l19)
 - [AR-PiZero — Augmented Reality for IoT](https://medium.datadriveninvestor.com/ar-pizero-augmented-reality-for-iot-1210062198c0?source=rss-cda09a7745f1------2)
 <!-- BLOG-POST-LIST:END -->
 
