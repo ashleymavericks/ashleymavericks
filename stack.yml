@@ -50,6 +50,7 @@
   url: https://www.typescriptlang.org/
   color: '#3178C6'
   projects:
+    - url: https://github.com/ashleymavericks/tokenizer-raycast
     - url: https://github.com/ashleymavericks/nextjs-starter-template
     - url: https://github.com/ashleymavericks/anuragsingh.dev
     - url: https://github.com/ashleymavericks/supabase-uptime-monitor
